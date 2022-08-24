@@ -1,0 +1,172 @@
+source	target	depth
+graph embedding	embedding	1
+graph embedding	book thickness	1
+graph embedding	graph thickness	1
+graph embedding	doubly connected edge list	1
+graph embedding	plane (geometry)	1
+graph embedding	regular map (graph theory)	1
+graph embedding	fáry's theorem	1
+graph embedding	triangulation (geometry)	1
+fáry's theorem	bend minimization	2
+regular map (graph theory)	topological graph theory	2
+regular map (graph theory)	abstract polytope	2
+regular map (graph theory)	planar graph	2
+regular map (graph theory)	toroidal graph	2
+regular map (graph theory)	graph embedding	2
+regular map (graph theory)	regular tiling	2
+regular map (graph theory)	platonic solid	2
+regular map (graph theory)	platonic graph	2
+plane (geometry)	face (geometry)	2
+plane (geometry)	flat (geometry)	2
+plane (geometry)	half-plane	2
+plane (geometry)	hyperplane	2
+plane (geometry)	line–plane intersection	2
+plane (geometry)	plane coordinates	2
+plane (geometry)	plane of incidence	2
+plane (geometry)	plane of rotation	2
+plane (geometry)	point on plane closest to origin	2
+plane (geometry)	polygon	2
+plane (geometry)	projective plane	2
+doubly connected edge list	quad-edge data structure	2
+doubly connected edge list	doubly linked face list	2
+doubly connected edge list	winged edge	2
+doubly connected edge list	combinatorial map	2
+embedding	closed immersion	2
+embedding	cover (algebra)	2
+embedding	dimension reduction	2
+embedding	immersion (mathematics)	2
+embedding	johnson–lindenstrauss lemma	2
+embedding	submanifold	2
+embedding	subspace (topology)	2
+embedding	universal spaces in the topology and topological dynamics	2
+computer vision	computational imaging	1
+computer vision	computational photography	1
+computer vision	computer audition	1
+computer vision	egocentric vision	1
+computer vision	machine vision glossary	1
+computer vision	space mapping	1
+computer vision	teknomo–fernandez algorithm	1
+computer vision	vision science	1
+computer vision	visual agnosia	1
+computer vision	visual perception	1
+computer vision	visual system	1
+visual agnosia	agnosia	2
+visual agnosia	blindness	2
+visual agnosia	color agnosia	2
+visual agnosia	gestaltzerfall	2
+visual agnosia	prosopagnosia	2
+visual agnosia	riddoch syndrome	2
+visual agnosia	topographical disorientation	2
+vision science	brain	2
+vision science	color constancy	2
+vision science	color vision	2
+vision science	computer vision	2
+vision science	eye	2
+vision science	linguistic relativity and the color naming debate	2
+vision science	neuropsychology	2
+vision science	neuroscience	2
+vision science	ophthalmology	2
+vision science	optical illusion	2
+vision science	optometry	2
+vision science	primary colors	2
+vision science	psychophysics	2
+vision science	visual cortex	2
+vision science	visual neuroscience	2
+vision science	visual system	2
+visual system	achromatopsia	2
+visual system	akinetopsia	2
+visual system	apperceptive agnosia	2
+visual system	associative visual agnosia	2
+visual system	asthenopia	2
+visual system	astigmatism (eye)	2
+visual system	color blindness	2
+visual system	human echolocation	2
+visual system	computer vision	2
+visual system	helmholtz–kohlrausch effect	2
+visual system	color balance	2
+visual system	magnocellular cell	2
+visual system	memory-prediction framework	2
+visual system	prosopagnosia	2
+visual system	scotopic sensitivity syndrome	2
+visual system	recovery from blindness	2
+visual system	visual agnosia	2
+visual system	visual modularity	2
+visual system	visual perception	2
+visual system	visual processing	2
+visual perception	color vision	2
+visual perception	computer vision	2
+visual perception	depth perception	2
+visual perception	entoptic phenomenon	2
+visual perception	gestalt psychology	2
+visual perception	lateral masking	2
+visual perception	looming	2
+visual perception	naked eye	2
+visual perception	machine vision	2
+visual perception	motion perception	2
+visual perception	multisensory integration	2
+visual perception	interpretation (philosophy)	2
+visual perception	spatial frequency	2
+visual perception	visual illusion	2
+visual perception	visual processing	2
+visual perception	visual system	2
+visual perception	wikt:sensation	2
+visual perception	achromatopsia	2
+visual perception	akinetopsia	2
+visual perception	apperceptive agnosia	2
+visual perception	associative visual agnosia	2
+visual perception	color blindness	2
+visual perception	hallucinogen persisting perception disorder	2
+visual perception	illusory palinopsia	2
+visual perception	prosopagnosia	2
+visual perception	refractive error	2
+visual perception	recovery from blindness	2
+visual perception	scotopic sensitivity syndrome	2
+visual perception	visual agnosia	2
+visual perception	visual snow	2
+visual perception	cognitive science	2
+visual perception	neuroscience	2
+visual perception	ophthalmology	2
+visual perception	optometry	2
+visual perception	psychophysics	2
+space mapping	adaptive control	2
+space mapping	cognitive model	2
+space mapping	computational electromagnetics	2
+space mapping	computer-aided design	2
+space mapping	engineering optimization	2
+space mapping	finite element method	2
+space mapping	kriging	2
+space mapping	linear approximation	2
+space mapping	machine learning	2
+space mapping	mental model	2
+space mapping	mental rotation	2
+space mapping	mirror neuron	2
+space mapping	model-dependent realism	2
+space mapping	multiphysics	2
+space mapping	performance tuning	2
+space mapping	response surface methodology	2
+space mapping	semiconductor device modeling	2
+space mapping	spatial cognition	2
+space mapping	spatial memory	2
+space mapping	support vector machine	2
+space mapping	theory of mind	2
+egocentric vision	eye tracking	2
+egocentric vision	lifelog	2
+egocentric vision	quantified self	2
+egocentric vision	smartglasses	2
+egocentric vision	sousveillance	2
+computer audition	3d sound localization	2
+computer audition	audio signal processing	2
+computer audition	medical intelligence and language engineering lab	2
+computer audition	music and artificial intelligence	2
+computer audition	sound recognition	2
+computational photography	adaptive optics	2
+computational photography	multispectral imaging	2
+computational photography	simultaneous localization and mapping	2
+computational photography	super-resolution microscopy	2
+computational photography	time-of-flight camera	2
+machine vision glossary	glossary of artificial intelligence	2
+machine vision glossary	frame grabber	2
+machine vision glossary	google goggles	2
+machine vision glossary	morphological image processing	2
+machine vision glossary	opencv	2
+machine vision glossary	smart camera	2
