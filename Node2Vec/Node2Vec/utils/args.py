@@ -6,10 +6,10 @@ def arg_utils():
     Parses the node2vec arguments.
     '''
     # 输入文件：邻接表
-    parser.add_argument('--input', nargs='?', default='karate.edgelist',
+    parser.add_argument('--input', nargs='?', default='..\data\karate.edgelist',
                         help='Input graph path')
     # 输出文件：节点嵌入表
-    parser.add_argument('--output', nargs='?', default='karate.emb',
+    parser.add_argument('--output', nargs='?', default='..\data\karate.emb',
                         help='Embeddings path')
     # embedding嵌入向量维度
     parser.add_argument('--dimensions', type=int, default=128,
